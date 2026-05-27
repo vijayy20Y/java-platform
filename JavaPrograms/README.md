@@ -31,15 +31,14 @@ class Hello {
         System.out.println("Hello World");
     }
 }
-## output
-hello World
+# output
+**hello World**
 
-## Applications of Java
-Android Applications
-Banking Software
-Web Applications
-Desktop Applications
-Scientific Applications
-
-## conclusion
-Java is one of the most popular programming languages because it is simple, secure, and platform independent.
+# Applications of Java
+**Android Applications**
+**Banking Software**
+**Web Applications**
+**Desktop Applications**
+**Scientific Applications**
+# conclusion
+**Java is one of the most popular programming languages because it is simple, secure, and platform independentv**.
