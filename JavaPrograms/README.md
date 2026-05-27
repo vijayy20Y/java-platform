@@ -1,3 +1,4 @@
+````markdown
 # What is Java?
 
 Java is a high-level, object-oriented programming language used to develop different types of applications such as web applications, desktop software, mobile applications, and enterprise systems.
@@ -31,21 +32,25 @@ class Hello {
         System.out.println("Hello World");
     }
 }
+````
 
+## Output
 
-#### output
-**hello World**
+```text
+Hello World
+```
 
+## Applications of Java
 
+* Android Applications
+* Banking Software
+* Web Applications
+* Desktop Applications
+* Scientific Applications
 
-##### Applications of Java
-**Android Applications**
-**Banking Software**
-**Web Applications**
-**Desktop Applications**
-**Scientific Applications**
+## Conclusion
 
+Java is one of the most popular programming languages because it is simple, secure, and platform independent.
 
-
-###### conclusion
-**Java is one of the most popular programming languages because it is simple, secure, and platform independentv**.
+```
+```
