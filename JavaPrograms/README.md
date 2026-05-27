@@ -23,15 +23,25 @@ Java Runtime Environment used to run Java applications.
 ### JVM
 Java Virtual Machine converts Java code into machine language.
 
-## Simple Java Program
-
-```java
+## Simple java program
 class Hello {
     public static void main(String args[]) {
         System.out.println("Hello World");
     }
-}.
+}
 
-## **Output**
+## Output
+ Hello World
+
+ ## Application of java
+-Android Applications
+-Banking Software
+-Web Applications
+-Desktop Applications
+-Scientific Applications
+
+## Conclusion
+Java is one of the most popular programming languages because it is simple, secure, and platform independent.
+
 
 
