@@ -34,11 +34,11 @@ class Hello {
  Hello World
 
  ## Application of java
--Android Applications
--Banking Software
--Web Applications
--Desktop Applications
--Scientific Applications
+- Android Applications
+- Banking Software
+- Web Applications
+- Desktop Applications
+- Scientific Applications
 
 ## Conclusion
 Java is one of the most popular programming languages because it is simple, secure, and platform independent.
