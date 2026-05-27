@@ -31,14 +31,21 @@ class Hello {
         System.out.println("Hello World");
     }
 }
-# output
+
+
+#### output
 **hello World**
 
-# Applications of Java
+
+
+##### Applications of Java
 **Android Applications**
 **Banking Software**
 **Web Applications**
 **Desktop Applications**
 **Scientific Applications**
-# conclusion
+
+
+
+###### conclusion
 **Java is one of the most popular programming languages because it is simple, secure, and platform independentv**.
